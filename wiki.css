@@ -47,10 +47,5 @@
     }
     img:hover{
         cursor: pointer;
-        animation: animation 3s;
     }
-    @keyframes animation{
-        0%{
-            transform: scale(0.5);
-        }
-    }
+    
